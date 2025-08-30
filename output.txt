@@ -1,0 +1,12 @@
+;lfkj;ofheqwn;fop2hhij4k2j132111111 file 2 ends here
+testaf;kfas;fk ja;sdkjf asfjas;kfjasd;fkja file 1 ends here
+total 49
+drwxrwx--- 2 danielhernandez danielhernandez    18 Feb 13 23:45 batch-files
+drwxrwx--- 2 danielhernandez danielhernandez    59 Feb 13 22:59 expected-output
+-rwxrwx--- 1 danielhernandez danielhernandez   237 Feb 13 22:53 Makefile
+-rwxrwx--- 1 danielhernandez danielhernandez 22232 Feb 14 00:15 myshell
+-rw-rw---- 1 danielhernandez danielhernandez  9808 Feb 14 00:15 myshell.c
+-rw-r----- 1 danielhernandez danielhernandez     0 Feb 13 23:26 output.txt
+-rwxrwx--- 1 danielhernandez danielhernandez  6271 Feb  2 18:08 README
+-rw-rw---- 1 danielhernandez danielhernandez  5904 Feb 13 22:55 README.md
+drwxrwx--- 2 danielhernandez danielhernandez     5 Feb 13 22:53 test-scripts
